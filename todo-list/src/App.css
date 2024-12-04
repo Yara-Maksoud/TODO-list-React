@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.newTask{
+  margin: 0px 20px;
+
+}
+
+.newTask form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 60%;
+}
+
+.tasksList li{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+}
